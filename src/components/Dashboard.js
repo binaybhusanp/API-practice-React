@@ -32,7 +32,7 @@ export default function Dashboard() {
               </tr>
             ))
           ) : (
-            <tr>tryu</tr>
+            <div>Data Not available. Come Back Later</div>
           )}
         </tbody>
       </table>
