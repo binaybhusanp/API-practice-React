@@ -8,9 +8,9 @@ export default function Dashboard() {
 
   return (
     <div>
-      <table>
+      <table className="table bg-light">
         <thead>
-          <tr>
+          <tr className="table-primary fw-bold">
             <td>Country</td>
             <td>Active Cases</td>
           </tr>
